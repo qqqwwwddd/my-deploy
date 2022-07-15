@@ -19,6 +19,8 @@ function App() {
                 <p>
                     {/* Edit <code>src/App.js</code> and save to reload. */}
                     {msg}
+                    <br />
+                    박정인 천재 !
                 </p>
 
                 <a
